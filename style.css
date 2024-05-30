@@ -1,5 +1,26 @@
 body {
     margin: 0;
-    background: pink;
-    text-align: center;
+    background: #ffeef3;
+    /*text-align: center;*/
 }
+
+#nested td {
+    background: white;
+    height: 25px;
+    width: 20px;
+    text-align: center;
+    border: 1px solid #ece3ff;
+    border-radius: 5px;
+    
+}
+
+#encompassed {
+    background: #ece3ff;
+    border: 2px solid #ece3ff;
+    border-radius: 10px;
+
+
+}
+
+
+
